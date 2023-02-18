@@ -1,0 +1,28 @@
+.card{
+    background-image: url(https://images3.alphacoders.com/807/thumbbig-807614.webp);
+    margin: 25px 0px 25px 0px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(241, 213, 213);
+    }
+    
+    .card:hover{
+        background-image: url(https://i.pinimg.com/originals/f6/1c/62/f61c62bf08c0a0833a07c411ee84311a.jpg);
+    }
+
+    .button{
+        position: relative;
+        font-weight: bold;
+        right: -120px;
+        background-color: pink;
+    }
+
+    .button:hover{
+        background-color: grey;
+    }
+
+    .img{
+       border-radius: 10px;
+    }

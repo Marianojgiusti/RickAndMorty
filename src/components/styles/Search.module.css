@@ -1,0 +1,18 @@
+.search{
+    border-radius: 10px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYz2RrM40DDY0LKmgwpQIzpVAWFUwHSR4GvA&usqp=CAU);
+    padding: 15px;
+    font-weight: lighter;
+    margin: 20px 0px;
+}
+
+.btn{
+    font-weight: 100px;
+    background-color: rgb(230, 180, 225);
+    border-radius: 10px;
+    
+}
+
+.btn:hover{
+    background-color: rgb(251, 237, 252);
+}
